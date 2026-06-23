@@ -1,5 +1,8 @@
 # Changelog
 
+## 2.2.1
+
+- Change required for cordova ios platform version 8
 
 ## [2.2.0](https://github.com/ionic-team/cordova-plugin-ionic-keyboard/compare/2.1.3...v2.2.0) (2019-09-03)
 
